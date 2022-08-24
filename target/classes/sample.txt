@@ -1,0 +1,6 @@
+name, age, salary, position, birthday
+Sasha, 20, 2000.0, middle, 06.12.2000
+Oleg, 28, 3000.0, middle, 23.05.1995
+Masha, 19, 1000.0, junior, 21.09.2003
+Karina, 18, 1500.0, junior, 10.01.2003
+Igor, 35, 5000.0, senior, 01.12.1988
